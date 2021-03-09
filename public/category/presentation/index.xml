@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presentation | gbertagnolli</title>
+    <link>/category/presentation/</link>
+      <atom:link href="/category/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>presentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>presentation</title>
+      <link>/category/presentation/</link>
+    </image>
+    
+    <item>
+      <title>Seminario per la Settimana di Orientamento unitn 2019</title>
+      <link>/post/2019-08-23-network-science/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-08-23-network-science/</guid>
+      <description>&lt;p&gt;Nell&amp;rsquo;ambito della Settimana di Orientamento dell&amp;rsquo;Università di Trento, ho tenuto un seminario dal titolo &lt;em&gt;Semplicemente&amp;hellip; Reti Complesse!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Scarica le slides della &lt;a href=&#34;/media/NetworkScience.pdf&#34; target=&#34;_blank&#34;&gt;mia presentazione&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbiamo visto qualche risultato classico della teoria dei grafi: il famoso problema dei ponti di Königsberg e abbiamo &lt;strong&gt;dimostrato il teorema dei 4 colori&lt;/strong&gt; (in realtà quello dei 5 colori).&lt;/p&gt;
+&lt;p&gt;Siamo poi passati dai grafi, struttura puramente matematica, alle reti complesse, rappresentazioni (astrazioni) di sistemi complessi. Esempi? Reti sociali, biologiche, stradali, reti dei trasporti etc.&lt;/p&gt;
+&lt;h4 id=&#34;alcune-risorse-interessanti&#34;&gt;Alcune risorse interessanti:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://complexityexplained.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complessità&lt;/a&gt;, che cos&amp;rsquo;è?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.complexity-explorables.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity explorables&lt;/a&gt;, gli esplorabili interattivi di Dirk Brockmann.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
