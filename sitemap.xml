@@ -20,6 +20,30 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/argyrakis-panos/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ccs2020/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/complex-systems/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,9 +54,6 @@
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/arsham-ghavasieh/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/covmulnet19/</loc>
@@ -48,12 +69,6 @@
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/nina-verstraete/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/vera-pancaldi/</loc>
@@ -99,9 +114,6 @@
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2019-08-23-network-science/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/centralities/</loc>
