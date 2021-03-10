@@ -21,5 +21,21 @@
 </description>
     </item>
     
+    <item>
+      <title>Diffusion Geometry of Multiplex and Interdependent Systems</title>
+      <link>/publication/ml-diffusion/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ml-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network depth: identifying median and contours in complex networks</title>
+      <link>/publication/network-depth/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/network-depth/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

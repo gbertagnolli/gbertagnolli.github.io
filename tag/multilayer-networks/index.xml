@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multilayer networks | gbertagnolli</title>
+    <link>/tag/multilayer-networks/</link>
+      <atom:link href="/tag/multilayer-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>multilayer networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>multilayer networks</title>
+      <link>/tag/multilayer-networks/</link>
+    </image>
+    
+    <item>
+      <title>Diffusion Geometry of Multiplex and Interdependent Systems</title>
+      <link>/publication/ml-diffusion/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ml-diffusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

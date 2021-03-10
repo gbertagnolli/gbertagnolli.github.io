@@ -65,8 +65,20 @@
     <loc>/publication-type/3/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/diffusion/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion-geometry/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/ml-diffusion/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/multilayer-networks/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/network-flows/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/efficiency/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
@@ -74,10 +86,16 @@
     <loc>/author/riccardo-gallotti/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/centralities/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/claudio-agostinelli/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/network-depth/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/statistical-data-depths/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/intsegration/</loc>
@@ -104,16 +122,10 @@
     <loc>/post/2019-08-23-network-science/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/centralities/</loc>
-    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/depth-demo/demo-1/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/r/</loc>
-    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/statistical-data-depths/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2018-11-19-nets-seminars/</loc>
