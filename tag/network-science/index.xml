@@ -5,12 +5,28 @@
     <link>/tag/network-science/</link>
       <atom:link href="/tag/network-science/index.xml" rel="self" type="application/rss+xml" />
     <description>network science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>network science</title>
       <link>/tag/network-science/</link>
     </image>
+    
+    <item>
+      <title>muxViz v3.1 R package</title>
+      <link>/post/2021-04-01-muxviz/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-04-01-muxviz/</guid>
+      <description>&lt;p&gt;I had the great opportunity to contribute to &lt;a href=&#34;https://github.com/manlius/muxViz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;muxViz&lt;/a&gt;, building the R package &lt;code&gt;muxViz&lt;/code&gt; that now can be installed as easy as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;devtools::install_github(&amp;quot;manlius/muxViz&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I built the &lt;a href=&#34;https://manlius.github.io/muxViz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package website&lt;/a&gt; using &lt;code&gt;pkgdown&lt;/code&gt; (cf.&lt;a href=&#34;https://pkgdown.r-lib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pkgdown.r-lib.org&lt;/a&gt;), which makes the whole process easy (and fun).&lt;/p&gt;
+&lt;p&gt;There is still work to do–enriching the documentation and fixing bugs, among others–before releasing it to CRAN, but it&amp;rsquo;s still a result and a pleasure.
+Realising code makes Scientific Research and Science better!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Tnx to sprint efforts by &lt;a href=&#34;https://twitter.com/gdeandajauregui?ref_src=twsrc%5Etfw&#34;&gt;@gdeandajauregui&lt;/a&gt; &amp;amp; Coll. + &lt;a href=&#34;https://twitter.com/GiuliaTtt?ref_src=twsrc%5Etfw&#34;&gt;@GiuliaTtt&lt;/a&gt; invaluable contributions, I can say it: &lt;a href=&#34;https://twitter.com/hashtag/muxViz?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#muxViz&lt;/a&gt; 3.1 is out! Full R package, w/ minimal doc + worked examples.&lt;br&gt;Many thanks for the patience, but it was worth the pain. The accompanying book is coming soon... &lt;a href=&#34;https://t.co/zEuGYGJ6tP&#34;&gt;pic.twitter.com/zEuGYGJ6tP&lt;/a&gt;&lt;/p&gt;&amp;mdash; Manlio De Domenico (@manlius84) &lt;a href=&#34;https://twitter.com/manlius84/status/1377555005427843074?ref_src=twsrc%5Etfw&#34;&gt;April 1, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>Seminario per la Settimana di Orientamento unitn 2019</title>
