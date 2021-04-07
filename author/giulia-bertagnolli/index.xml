@@ -5,7 +5,7 @@
     <link>/author/giulia-bertagnolli/</link>
       <atom:link href="/author/giulia-bertagnolli/index.xml" rel="self" type="application/rss+xml" />
     <description>Giulia Bertagnolli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/giulia-bertagnolli/avatar_hu6b7664f523075193f9f11d79c1c9dcfa_251560_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Giulia Bertagnolli</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Covmulnet19, integrating proteins, diseases, drugs, and symptoms: a network medicine approach to covid-19</title>
-      <link>/publication/covmulnet19/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/covmulnet19/</guid>
+      <title>Diffusion geometry of multiplex and interdependent systems</title>
+      <link>/publication/ml-diffusion/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ml-diffusion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Diffusion Geometry of Multiplex and Interdependent Systems</title>
-      <link>/publication/ml-diffusion/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ml-diffusion/</guid>
+      <title>Covmulnet19, integrating proteins, diseases, drugs, and symptoms: a network medicine approach to covid-19</title>
+      <link>/publication/covmulnet19/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/covmulnet19/</guid>
       <description></description>
     </item>
     

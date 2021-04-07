@@ -5,12 +5,20 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Diffusion geometry of multiplex and interdependent systems</title>
+      <link>/publication/ml-diffusion/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ml-diffusion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covmulnet19, integrating proteins, diseases, drugs, and symptoms: a network medicine approach to covid-19</title>
