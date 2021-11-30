@@ -3,13 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/code/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/code/diffudist/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion-distance/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion-geometry/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/networks/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/r/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/r-package/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/code/intsegration/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
@@ -21,15 +45,6 @@
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/network-flows/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/r/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/r-package/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
@@ -47,13 +62,7 @@
     <loc>/tag/complex-systems/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/diffusion-distance/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/efficiency/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/networks/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -63,12 +72,6 @@
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/diffusion/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/diffusion-geometry/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ml-diffusion/</loc>

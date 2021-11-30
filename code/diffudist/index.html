@@ -33,10 +33,10 @@
   
     
   
-  <meta name="description" content="Increasing evidence suggests that cities are complex systems, with structural and dynamical features responsible for a broad spectrum of emerging phenomena. Here we use a unique data set of human flows and couple it with information on the underlying street network to study, simultaneously, the structural and functional organisation of 10 world megacities. We quantify the efficiency of flow exchange between areas of a city in terms of integration and segregation using well defined measures. Results reveal unexpected complex patterns that shed new light on urban organisation. Large cities tend to be more segregated and less integrated, while their overall topological organisation resembles that of small world networks. At the same time, the heterogeneity of flows distribution might act as a catalyst for further integrating a city. Our analysis unravels how human behaviour influences, and is influenced by, the urban environment, suggesting quantitative indicators to control integration and segregation of human flows that can be used, among others, for restriction policies to adopt during emergencies and, as an interesting byproduct, allows us to characterise functional (dis)similarities of different metropolitan areas, countries, and cultures." />
+  <meta name="description" content="Check out the R package diffudist, now also on CRAN! The diffudist package allows you to easily evaluate (and plot with ggplot2) diffusion distances between the nodes of a complex networks and, in so doing, analaysing the functional shape and diffusion geometry of your networks." />
 
   
-  <link rel="alternate" hreflang="en-gb" href="/publication/intsegration/" />
+  <link rel="alternate" hreflang="en-gb" href="/code/diffudist/" />
 
   
 
@@ -318,7 +318,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hubd32b0ffec759ecd2c926eea340d08a3_23171_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hubd32b0ffec759ecd2c926eea340d08a3_23171_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="/publication/intsegration/" />
+  <link rel="canonical" href="/code/diffudist/" />
 
   
   
@@ -334,64 +334,23 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="gbertagnolli" />
-  <meta property="og:url" content="/publication/intsegration/" />
-  <meta property="og:title" content="Unraveling the hidden organisation of urban systems and their mobility flows | gbertagnolli" />
-  <meta property="og:description" content="Increasing evidence suggests that cities are complex systems, with structural and dynamical features responsible for a broad spectrum of emerging phenomena. Here we use a unique data set of human flows and couple it with information on the underlying street network to study, simultaneously, the structural and functional organisation of 10 world megacities. We quantify the efficiency of flow exchange between areas of a city in terms of integration and segregation using well defined measures. Results reveal unexpected complex patterns that shed new light on urban organisation. Large cities tend to be more segregated and less integrated, while their overall topological organisation resembles that of small world networks. At the same time, the heterogeneity of flows distribution might act as a catalyst for further integrating a city. Our analysis unravels how human behaviour influences, and is influenced by, the urban environment, suggesting quantitative indicators to control integration and segregation of human flows that can be used, among others, for restriction policies to adopt during emergencies and, as an interesting byproduct, allows us to characterise functional (dis)similarities of different metropolitan areas, countries, and cultures." /><meta property="og:image" content="/media/sharing.png" />
+  <meta property="og:url" content="/code/diffudist/" />
+  <meta property="og:title" content="diffudist 1.0 R package | gbertagnolli" />
+  <meta property="og:description" content="Check out the R package diffudist, now also on CRAN! The diffudist package allows you to easily evaluate (and plot with ggplot2) diffusion distances between the nodes of a complex networks and, in so doing, analaysing the functional shape and diffusion geometry of your networks." /><meta property="og:image" content="/media/sharing.png" />
     <meta property="twitter:image" content="/media/sharing.png" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
         property="article:published_time"
-        content="2021-01-15T00:00:00&#43;00:00"
+        content="2021-11-30T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2019-10-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-11-30T00:00:00&#43;00:00">
   
 
   
 
 
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "/publication/intsegration/"
-  },
-  "headline": "Unraveling the hidden organisation of urban systems and their mobility flows",
-  
-  "datePublished": "2021-01-15T00:00:00Z",
-  "dateModified": "2019-10-01T00:00:00Z",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Riccardo Gallotti"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "gbertagnolli",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/media/icon_hubd32b0ffec759ecd2c926eea340d08a3_23171_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "Increasing evidence suggests that cities are complex systems, with structural and dynamical features responsible for a broad spectrum of emerging phenomena. Here we use a unique data set of human flows and couple it with information on the underlying street network to study, simultaneously, the structural and functional organisation of 10 world megacities. We quantify the efficiency of flow exchange between areas of a city in terms of integration and segregation using well defined measures. Results reveal unexpected complex patterns that shed new light on urban organisation. Large cities tend to be more segregated and less integrated, while their overall topological organisation resembles that of small world networks. At the same time, the heterogeneity of flows distribution might act as a catalyst for further integrating a city. Our analysis unravels how human behaviour influences, and is influenced by, the urban environment, suggesting quantitative indicators to control integration and segregation of human flows that can be used, among others, for restriction policies to adopt during emergencies and, as an interesting byproduct, allows us to characterise functional (dis)similarities of different metropolitan areas, countries, and cultures."
-}
-</script>
-
-  
 
   
 
@@ -403,11 +362,11 @@
 
 
 
-  <title>Unraveling the hidden organisation of urban systems and their mobility flows | gbertagnolli</title>
+  <title>diffudist 1.0 R package | gbertagnolli</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="769485c040d8121aff98a298829236ef" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="463f71e2d802d65fed84be49848bf6be" >
 
   
   
@@ -712,16 +671,7 @@
   </div>
 
   <div class="page-body">
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+    <article class="article">
 
   
 
@@ -742,7 +692,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Unraveling the hidden organisation of urban systems and their mobility flows</h1>
+  <h1>diffudist 1.0 R package</h1>
 
   
 
@@ -754,18 +704,6 @@
 
   
   
-  
-  
-  <div>
-    
-
-  <span >
-      <a href="/author/riccardo-gallotti/">Riccardo Gallotti</a></span>, <span >
-      <a href="/author/giulia-bertagnolli/">Giulia Bertagnolli</a></span>, <span >
-      <a href="/author/manlio-de-domenico/">Manlio De Domenico</a></span>
-  </div>
-  
-  
 
   
   <span class="article-date">
@@ -773,7 +711,7 @@
     
       
     
-    October 2019
+    Nov 30, 2021
   </span>
   
 
@@ -790,6 +728,10 @@
 
   
   
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
 
 </div>
 
@@ -797,64 +739,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/intsegration/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1140/epjds/s13688-020-00258-3" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/1904.05060" target="_blank" rel="noopener">
-    
-    Pdf
-  </a>
-
-
-</div>
 
 
   
@@ -864,47 +748,20 @@
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Increasing evidence suggests that cities are complex systems, with structural and dynamical features responsible for a broad spectrum of emerging phenomena. Here we use a unique data set of human flows and couple it with information on the underlying street network to study, simultaneously, the structural and functional organisation of 10 world megacities. We quantify the efficiency of flow exchange between areas of a city in terms of integration and segregation using well defined measures. Results reveal unexpected complex patterns that shed new light on urban organisation. Large cities tend to be more segregated and less integrated, while their overall topological organisation resembles that of small world networks. At the same time, the heterogeneity of flows distribution might act as a catalyst for further integrating a city. Our analysis unravels how human behaviour influences, and is influenced by, the urban environment, suggesting quantitative indicators to control integration and segregation of human flows that can be used, among others, for restriction policies to adopt during emergencies and, as an interesting byproduct, allows us to characterise functional (dis)similarities of different metropolitan areas, countries, and cultures.</p>
-    
+    <div class="article-style">
+      <p>Check out the R package <a href="https://gbertagnolli.github.io/diffudist" target="_blank" rel="noopener"><code>diffudist</code></a>, now also <a href="https://CRAN.R-project.org/package=diffudist" target="_blank" rel="noopener">on CRAN</a>! The <code>diffudist</code> package allows you to easily evaluate (and plot with <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noopener"><code>ggplot2</code></a>) diffusion distances between the nodes of a complex networks and, in so doing, analaysing the functional shape and diffusion geometry of your networks. For more details, check out this detailed <a href="https://cran.r-project.org/web/packages/diffudist/vignettes/diffusion-distances.html" target="_blank" rel="noopener">package vignette</a> and the two scientific papers <a href="https://doi.org/10.1103/PhysRevLett.118.168301" target="_blank" rel="noopener">Phys. Rev. Lett. 118, 168301 – 2017</a> and <a href="https://doi.org/10.1103/PhysRevE.103.042301" target="_blank" rel="noopener">Phys. Rev. E 103, 042301 – 2021</a> (also <a href="https://gbertagnolli.github.io/publication/ml-diffusion/" target="_blank" rel="noopener">here</a>).</p>
+<h3 id="installation">Installation</h3>
+<pre><code class="language-R"># either
+install.packages(&quot;diffudist&quot;)
+# or
+devtools::install_github(&quot;gbertagnolli/diffudist&quot;)
+</code></pre>
+<p>The <a href="https://gbertagnolli.github.io/diffudist" target="_blank" rel="noopener">package website</a>, has been built using <code>pkgdown</code> <a href="https://pkgdown.r-lib.org/" target="_blank" rel="noopener">pkgdown.r-lib.org</a>.</p>
+<hr>
+<p>Releasing (well documented and maintained) code makes Scientific Research and Science better!</p>
+<hr>
 
-    
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#2">
-              Journal article
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>EPJ Data Science</em>, Volume 10, 3</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
 
     
 
@@ -915,11 +772,15 @@
 
 <div class="article-tags">
   
+  <a class="badge badge-light" href="/tag/diffusion-distance/">diffusion distance</a>
+  
+  <a class="badge badge-light" href="/tag/diffusion/">diffusion</a>
+  
+  <a class="badge badge-light" href="/tag/diffusion-geometry/">diffusion geometry</a>
+  
   <a class="badge badge-light" href="/tag/networks/">networks</a>
   
-  <a class="badge badge-light" href="/tag/efficiency/">efficiency</a>
-  
-  <a class="badge badge-light" href="/tag/network-flows/">network-flows</a>
+  <a class="badge badge-light" href="/tag/r-package/">r-package</a>
   
 </div>
 
@@ -936,7 +797,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/intsegration/&amp;text=Unraveling%20the%20hidden%20organisation%20of%20urban%20systems%20and%20their%20mobility%20flows" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/code/diffudist/&amp;text=diffudist%201.0%20R%20package" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -949,7 +810,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Unraveling%20the%20hidden%20organisation%20of%20urban%20systems%20and%20their%20mobility%20flows&amp;body=/publication/intsegration/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=diffudist%201.0%20R%20package&amp;body=/code/diffudist/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -962,7 +823,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/intsegration/&amp;title=Unraveling%20the%20hidden%20organisation%20of%20urban%20systems%20and%20their%20mobility%20flows" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/code/diffudist/&amp;title=diffudist%201.0%20R%20package" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -975,7 +836,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/intsegration/&amp;t=Unraveling%20the%20hidden%20organisation%20of%20urban%20systems%20and%20their%20mobility%20flows" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/code/diffudist/&amp;t=diffudist%201.0%20R%20package" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -995,13 +856,6 @@
 
   
   
-    
-
-
-
-
-  
-    
 
 
 
@@ -1132,13 +986,6 @@
   </div>
 
 
-  
-    
-
-
-
-
-  
 
 
 
@@ -1152,33 +999,13 @@
 
 
 
-
-  
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/efficiency/">Quantifying efficient information exchange in real network flows</a></li>
-      
-      <li><a href="/publication/ccs2020/">CCS2020 - Conference on Complex System 2020 - Book of Abstracts</a></li>
-      
-      <li><a href="/code/diffudist/">diffudist 1.0 R package</a></li>
-      
-      <li><a href="/publication/ml-diffusion/">Diffusion geometry of multiplex and interdependent systems</a></li>
-      
-      <li><a href="/publication/covmulnet19/">Covmulnet19, integrating proteins, diseases, drugs, and symptoms: a network medicine approach to covid-19</a></li>
-      
-    </ul>
-  </div>
-  
 
 
 
 
 
   </div>
-</div>
+</article>
   </div>
 
   <div class="page-footer">

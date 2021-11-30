@@ -5,12 +5,31 @@
     <link>/tag/diffusion-distance/</link>
       <atom:link href="/tag/diffusion-distance/index.xml" rel="self" type="application/rss+xml" />
     <description>diffusion distance</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2021 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>diffusion distance</title>
       <link>/tag/diffusion-distance/</link>
     </image>
+    
+    <item>
+      <title>diffudist 1.0 R package</title>
+      <link>/code/diffudist/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/code/diffudist/</guid>
+      <description>&lt;p&gt;Check out the R package &lt;a href=&#34;https://gbertagnolli.github.io/diffudist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;diffudist&lt;/code&gt;&lt;/a&gt;, now also &lt;a href=&#34;https://CRAN.R-project.org/package=diffudist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on CRAN&lt;/a&gt;! The &lt;code&gt;diffudist&lt;/code&gt; package allows you to easily evaluate (and plot with &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/a&gt;) diffusion distances between the nodes of a complex networks and, in so doing, analaysing the functional shape and diffusion geometry of your networks. For more details, check out this detailed &lt;a href=&#34;https://cran.r-project.org/web/packages/diffudist/vignettes/diffusion-distances.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package vignette&lt;/a&gt; and the two scientific papers &lt;a href=&#34;https://doi.org/10.1103/PhysRevLett.118.168301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. Lett. 118, 168301 – 2017&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1103/PhysRevE.103.042301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. E 103, 042301 – 2021&lt;/a&gt; (also &lt;a href=&#34;https://gbertagnolli.github.io/publication/ml-diffusion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;# either
+install.packages(&amp;quot;diffudist&amp;quot;)
+# or
+devtools::install_github(&amp;quot;gbertagnolli/diffudist&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;a href=&#34;https://gbertagnolli.github.io/diffudist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package website&lt;/a&gt;, has been built using &lt;code&gt;pkgdown&lt;/code&gt; &lt;a href=&#34;https://pkgdown.r-lib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pkgdown.r-lib.org&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Releasing (well documented and maintained) code makes Scientific Research and Science better!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>CCS2020 - Conference on Complex System 2020 - Book of Abstracts</title>
