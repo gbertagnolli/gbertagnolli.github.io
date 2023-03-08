@@ -3,10 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/information-geometry/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/lectures/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2023-03-08-ig/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/statistics/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/teaching/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/frc/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/giulia-bertagnolli/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/manlio-de-domenico/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/networks/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/rich-clubs/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/rich-club-phenomenon/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/graph-theory/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
@@ -17,16 +71,10 @@
     <loc>/tag/network-science/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/category/presentation/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022-07-18-reti-sistemi-complessi/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/code/</loc>
@@ -35,16 +83,10 @@
     <loc>/code/diffudist/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/diffusion/</loc>
-    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/diffusion-distance/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/diffusion-geometry/</loc>
-    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/networks/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/r/</loc>
@@ -68,9 +110,6 @@
     <loc>/author/argyrakis-panos/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/ccs2020/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -80,22 +119,10 @@
     <loc>/tag/efficiency/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ml-diffusion/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/giulia-bertagnolli/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/manlio-de-domenico/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/multilayer-networks/</loc>
@@ -131,9 +158,6 @@
     <loc>/author/vera-pancaldi/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/efficiency/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -165,9 +189,6 @@
     <lastmod>2018-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2018-10-24-msc/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/statistics/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/studies/</loc>
