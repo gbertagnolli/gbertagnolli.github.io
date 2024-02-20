@@ -5,12 +5,32 @@
     <link>/tag/graph-theory/</link>
       <atom:link href="/tag/graph-theory/index.xml" rel="self" type="application/rss+xml" />
     <description>graph theory</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2023 Giulia  Bertagnolli</copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2024 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>graph theory</title>
       <link>/tag/graph-theory/</link>
     </image>
+    
+    <item>
+      <title>Grafi, paradossi e sistemi complessi - STAGE 2024 DIMA Unige</title>
+      <link>/post/2024-02-13-grafi-paradossi-networks/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024-02-13-grafi-paradossi-networks/</guid>
+      <description>&lt;p&gt;Nell&amp;rsquo;ambito della &lt;a href=&#34;https://dima.unige.it/node/1418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Week 2024&lt;/a&gt;, Settimana di stage e orientamento del DIMA dell&amp;rsquo;Università degli Studi di Genova, ho proposto agli studentesse e studenti un&amp;rsquo;attività su grafi, reti, e sistemi complessi. Vedremo come la &lt;em&gt;Teoria dei Grafi&lt;/em&gt;, che sembra una parte creativa della matematica nata per risolvere puzzle, abbia riscontri in molti ambiti di interesse pratico. Ad esempio, in geografia, nel colorare mappe (dimostreremo il &amp;ldquo;torema dei cinque colori&amp;rdquo;!), nelle scienze sociali, per rappresentare e studiare relazioni tra individui e loro dinamiche (i cosiddetti sistemi sociali), ma anche in neuroscienze, ecologia, biologia, ingegneria&amp;hellip; Benvenuti nel mondo della &lt;em&gt;network science&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Dopo una breve introduzione al linguaggio della teoria dei grafi, abbiamo visto il famoso problema dei sette ponti di Königsberg, da cui si considera abbia avuto inizio la teoria dei grafi, appunto. Il &amp;ldquo;Water-Gas-Electricity problem&amp;rdquo; ci ha introdotti poi al concetto di planarità, ossia, quando un grafo, ad esempio una rete di strade, può essere disegnato nel piano, cioè, per le strade, quando non abbiamo bisogno di costruire ponti?
+Siamo poi passati alle reti complesse, come quella degli aeroporti degli Stati Uniti (disponibile nel pacchetto R &lt;code&gt;igraphdata&lt;/code&gt;) e abbiamo cercato di capire quanto è &lt;em&gt;piccolo il mondo&lt;/em&gt;.
+Un&amp;rsquo;altra bizzarria che abbiamo discusso è il paradosso dell&amp;rsquo;amicizia, o &lt;a href=&#34;https://en.wikipedia.org/wiki/Friendship_paradox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the friendship paradox&lt;/a&gt;, e come la matematica ci svela dove sta l&amp;rsquo;inghippo.
+Infine, abbiamo discusso varie rappresentazioni di sistemi attraverso reti e dei loro aspetti interessanti.&lt;/p&gt;
+&lt;p&gt;Trovate il materiale dell&amp;rsquo;attività (jupyter notebooks in R e, parzialmente, in python) nella &lt;a href=&#34;https://github.com/gbertagnolli/OrientaMat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mia pagina di github&lt;/a&gt; e su &lt;a href=&#34;https://mybinder.org/v2/gh/gbertagnolli/OrientaMat/HEAD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mybinder.org/badge_logo.svg&#34; alt=&#34;Binder&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;media/orientamento-dima.pdf&#34;&gt;Qui&lt;/a&gt;, la dimostrazione del teorema dei cinque colori.&lt;/p&gt;
+&lt;h4 id=&#34;alcune-risorse-interessanti&#34;&gt;Alcune risorse interessanti:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://complexityexplained.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complessità&lt;/a&gt;, che cos&amp;rsquo;è?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.complexity-explorables.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity explorables&lt;/a&gt;, gli esplorabili interattivi di Dirk Brockmann.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Reti e sistemi complessi - OrientaEstate 2022</title>

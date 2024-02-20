@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oriol Artime | gbertagnolli</title>
+    <link>/author/oriol-artime/</link>
+      <atom:link href="/author/oriol-artime/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oriol Artime</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2024 Giulia  Bertagnolli</copyright><lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>Oriol Artime</title>
+      <link>/author/oriol-artime/</link>
+    </image>
+    
+    <item>
+      <title>Efficient network exploration by means of resetting self-avoiding random walkers</title>
+      <link>/publication/sarw/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sarw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

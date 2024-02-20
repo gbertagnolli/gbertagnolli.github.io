@@ -5,12 +5,20 @@
     <link>/author/giulia-bertagnolli/</link>
       <atom:link href="/author/giulia-bertagnolli/index.xml" rel="self" type="application/rss+xml" />
     <description>Giulia Bertagnolli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2023 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2024 Giulia  Bertagnolli</copyright><lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/giulia-bertagnolli/avatar_hu6b7664f523075193f9f11d79c1c9dcfa_251560_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Giulia Bertagnolli</title>
       <link>/author/giulia-bertagnolli/</link>
     </image>
+    
+    <item>
+      <title>Efficient network exploration by means of resetting self-avoiding random walkers</title>
+      <link>/publication/sarw/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sarw/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional rich clubs emerging from the diffusion geometry of complex networks</title>
