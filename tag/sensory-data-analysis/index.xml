@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sensory data analysis | gbertagnolli</title>
+    <link>/tag/sensory-data-analysis/</link>
+      <atom:link href="/tag/sensory-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>sensory data analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2025 Giulia  Bertagnolli</copyright><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>sensory data analysis</title>
+      <link>/tag/sensory-data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Detection and characterization of incidental vibrations from Drosophila suzukii in infested fruits</title>
+      <link>/publication/functional-analysis/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/functional-analysis/</guid>
+      <description>&lt;p&gt;Joint work with Lorenzo Fellin, PhD student at &lt;a href=&#34;https://fmach.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fondazione Edmund Mach (IT)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

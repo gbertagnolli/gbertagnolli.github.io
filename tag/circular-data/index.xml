@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>circular data | gbertagnolli</title>
+    <link>/tag/circular-data/</link>
+      <atom:link href="/tag/circular-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>circular data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2025 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/sharing.png</url>
+      <title>circular data</title>
+      <link>/tag/circular-data/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of a multivariate von Mises distribution for contaminated torus data</title>
+      <link>/publication/von-mises-wle/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/von-mises-wle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

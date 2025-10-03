@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>gbertagnolli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2024 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2025 Giulia  Bertagnolli</copyright><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>gbertagnolli</title>
@@ -23,12 +23,21 @@ Siamo poi passati alle reti complesse, come quella degli aeroporti degli Stati U
 Un&amp;rsquo;altra bizzarria che abbiamo discusso è il paradosso dell&amp;rsquo;amicizia, o &lt;a href=&#34;https://en.wikipedia.org/wiki/Friendship_paradox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the friendship paradox&lt;/a&gt;, e come la matematica ci svela dove sta l&amp;rsquo;inghippo.
 Infine, abbiamo discusso varie rappresentazioni di sistemi attraverso reti e dei loro aspetti interessanti.&lt;/p&gt;
 &lt;p&gt;Trovate il materiale dell&amp;rsquo;attività (jupyter notebooks in R e, parzialmente, in python) nella &lt;a href=&#34;https://github.com/gbertagnolli/OrientaMat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mia pagina di github&lt;/a&gt; e su &lt;a href=&#34;https://mybinder.org/v2/gh/gbertagnolli/OrientaMat/HEAD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mybinder.org/badge_logo.svg&#34; alt=&#34;Binder&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;media/orientamento-dima.pdf&#34;&gt;Qui&lt;/a&gt;, la dimostrazione del teorema dei cinque colori.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/media/orientamento-dima.pdf&#34; target=&#34;_blank&#34;&gt;Qui&lt;/a&gt;, la dimostrazione del teorema dei cinque colori.&lt;/p&gt;
 &lt;h4 id=&#34;alcune-risorse-interessanti&#34;&gt;Alcune risorse interessanti:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://complexityexplained.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complessità&lt;/a&gt;, che cos&amp;rsquo;è?&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.complexity-explorables.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity explorables&lt;/a&gt;, gli esplorabili interattivi di Dirk Brockmann.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection and characterization of incidental vibrations from Drosophila suzukii in infested fruits</title>
+      <link>/publication/functional-analysis/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/functional-analysis/</guid>
+      <description>&lt;p&gt;Joint work with Lorenzo Fellin, PhD student at &lt;a href=&#34;https://fmach.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fondazione Edmund Mach (IT)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -81,6 +90,14 @@ Using these classical results in IG we can finally understand, e.g., why the Kul
 &lt;li&gt;Petersen, P. (2006). Riemannian geometry (Vol. 171). New York: Springer.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Estimation of a multivariate von Mises distribution for contaminated torus data</title>
+      <link>/publication/von-mises-wle/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/von-mises-wle/</guid>
+      <description></description>
     </item>
     
     <item>
