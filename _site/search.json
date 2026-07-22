@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to my new Quarto website",
+    "section": "",
+    "text": "This is a sample post. Duplicate this folder, edit the YAML header above, and replace the text."
+  },
+  {
+    "objectID": "posts/welcome/index.html#why-quarto",
+    "href": "posts/welcome/index.html#why-quarto",
+    "title": "Welcome to my new Quarto website",
+    "section": "Why Quarto?",
+    "text": "Why Quarto?\nQuarto keeps content in readable Markdown files while supporting equations, citations, R or Python code, and automatic website navigation."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Topics include statistical network analysis, robust statistics, structured data, and applied work in R.\n\nInstitution: Free University of Bozen–Bolzano\nLevel: Master’s\nMaterials: add a link here"
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Topics include statistical network analysis, robust statistics, structured data, and applied work in R.\n\nInstitution: Free University of Bozen–Bolzano\nLevel: Master’s\nMaterials: add a link here"
+  },
+  {
+    "objectID": "teaching.html#previous-teaching",
+    "href": "teaching.html#previous-teaching",
+    "title": "Teaching",
+    "section": "Previous teaching",
+    "text": "Previous teaching\nAdd earlier courses here using ordinary Markdown headings and lists. Keeping this page manual makes it easy to update without learning an additional Quarto extension."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Robust statistics Invited\n\n\n\n\n9th International Conference on Econometrics and Statistics — EcoSta 2026\n\n\nKyoto, Japan · 8–10 August 2026\n\nC. Agostinelli, A. Basu, G. Bertagnolli, and A. K. Kuchibhotla.\n\n\n\n\nRobust statistics Invited\n\n\n\n\nInternational Conference on Robust Statistics — ICORS 2026\n\n\nIstanbul, Türkiye · 20–24 July 2026\n\nG. Bertagnolli, L. Greco, and C. Agostinelli.\nSlides\n\n\n\n\nSparse inference Invited\n\n\n\n\nData Science, Statistics & Visualisation — DSSV 2026\n\n\nTrento, Italy · 29 June–1 July 2026\n\nG. Bertagnolli, Z. Huan, and D. Ferrari.\nSlides\n\n\n\n\nRobust statistics Invited\n\n\n\n\n5th ISI Regional Statistics Conference 2026\n\n\nValletta, Malta · 3–5 June 2026\n\nG. Bertagnolli, L. Greco, and C. Agostinelli.\n\n\n\n\nNetworks Invited\n\n\n\n\ny-SIS Conference — StaTalk 2026\n\n\nTurin, Italy · 21–22 May 2026\n\nG. Bertagnolli, G. Francisci, and C. Agostinelli."
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "Robust statistics Invited\n\n\n\n\n9th International Conference on Econometrics and Statistics — EcoSta 2026\n\n\nKyoto, Japan · 8–10 August 2026\n\nC. Agostinelli, A. Basu, G. Bertagnolli, and A. K. Kuchibhotla.\n\n\n\n\nRobust statistics Invited\n\n\n\n\nInternational Conference on Robust Statistics — ICORS 2026\n\n\nIstanbul, Türkiye · 20–24 July 2026\n\nG. Bertagnolli, L. Greco, and C. Agostinelli.\nSlides\n\n\n\n\nSparse inference Invited\n\n\n\n\nData Science, Statistics & Visualisation — DSSV 2026\n\n\nTrento, Italy · 29 June–1 July 2026\n\nG. Bertagnolli, Z. Huan, and D. Ferrari.\nSlides\n\n\n\n\nRobust statistics Invited\n\n\n\n\n5th ISI Regional Statistics Conference 2026\n\n\nValletta, Malta · 3–5 June 2026\n\nG. Bertagnolli, L. Greco, and C. Agostinelli.\n\n\n\n\nNetworks Invited\n\n\n\n\ny-SIS Conference — StaTalk 2026\n\n\nTurin, Italy · 21–22 May 2026\n\nG. Bertagnolli, G. Francisci, and C. Agostinelli."
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks",
+    "section": "2025",
+    "text": "2025\n\n\nSparse inference Invited\n\n\nApproximate unbiased sparse estimating functions in high dimensions\n\n19th International Conference on Computational and Methodological Statistics — CFE–CMStatistics 2025\n\n\nLondon, United Kingdom · 13–15 December 2025\n\nG. Bertagnolli and D. Ferrari.\n\n\n\n\nRobust statistics Contributed\n\n\nEstimation of a multivariate von Mises distribution for contaminated torus data\n\nInternational Conference on Robust Statistics — ICORS 2025\n\n\nStresa, Italy · 19–23 May 2025\n\nG. Bertagnolli, L. Greco, and C. Agostinelli."
+  },
+  {
+    "objectID": "talks.html#section-2",
+    "href": "talks.html#section-2",
+    "title": "Talks",
+    "section": "2022",
+    "text": "2022\n\n\nNetworks Invited\n\n\nFunctional rich clubs in complex networks\n\nWorkshop of the Italian Chapter of the Complex Systems Society\n\n\nOnline · 25 May 2022\n\nG. Bertagnolli and M. De Domenico."
+  },
+  {
+    "objectID": "talks.html#section-3",
+    "href": "talks.html#section-3",
+    "title": "Talks",
+    "section": "2021",
+    "text": "2021\n\n\nNetworks Contributed\n\n\nDiffusion geometry of multiplex and interdependent systems\n\nConference on Complex Systems — CCS 2021\n\n\nLyon, France · 25–29 October 2021\n\nG. Bertagnolli and M. De Domenico.\n\n\n\n\nNetworks Contributed\n\n\nDiffusion geometry of multiplex and interdependent systems\n\nJoint Sunbelt and NetSci Conference — Networks 2021\n\n\nIndiana University Network Institute, United States · 5–10 July 2021\n\nG. Bertagnolli and M. De Domenico.\n\n\n\n\nNetworks Contributed\n\n\nDiffusion geometry of multiplex and interdependent systems\n\nInternational Conference on Complex Networks — CompleNet Live 2021\n\n\nOnline / Exeter, United Kingdom · 24–26 May 2021\n\nG. Bertagnolli and M. De Domenico."
+  },
+  {
+    "objectID": "talks.html#scientific-organization",
+    "href": "talks.html#scientific-organization",
+    "title": "Talks",
+    "section": "Scientific organization",
+    "text": "Scientific organization\n\n\nOrganization Structured data\n\n\nAdvancements in Statistics for Network and Metric Data\n\nOrganized session at CFE–CMStatistics 2026\n\n\nBerlin, Germany · 12–14 December 2026\n\nThe session brings together methodological and applied contributions on statistical inference, modelling, and computation for complex structured data, including network-valued, graph-based, and metric-space data.\n\n\n\n\nOrganization Seminars\n\n\nData Crunch at Lunch!\n\nFree University of Bozen–Bolzano\n\n\nOrganizer · April 2025–present\n\n\n\n\n\nOrganization Seminars\n\n\nDSMM Research Seminar Series\n\nFree University of Bozen–Bolzano\n\n\nCo-organizer · July 2025–present"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Giulia Bertagnolli",
+    "section": "",
+    "text": "Junior Assistant Professor in Statistics\n\n\nFree University of Bozen–Bolzano, Italy\n\nI develop statistical methods for structured data—including networks, functional, high-dimensional, and circular data—with an emphasis on robustness and efficiency. I am also interested in Information Geometry.\n\n\nRobust statistics\n\n\nStructured data\n\n\nNetwork data\n\n\nIG"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Giulia Bertagnolli",
+    "section": "About me",
+    "text": "About me\n\nI am a Junior Assistant Professor at the Faculty of Economics and Management at the Free University of Bozen–Bolzano. Previously, I worked in the Department of Mathematics at the University of Genoa.\nMy research lies at the intersection of robust statistics, structured data analysis, and information geometry. I am especially interested in methods that remain reliable under contamination or model misspecification and that exploit the geometry of complex data objects."
+  },
+  {
+    "objectID": "index.html#current-works",
+    "href": "index.html#current-works",
+    "title": "Giulia Bertagnolli",
+    "section": "Current works",
+    "text": "Current works\n\n\nRobust inference\nRobust procedures for multivariate, directional, functional, and high-dimensional data, with particular attention to weighted likelihood and data-depth methods.\nRead more →\n\n\nSparse estimating equations\nA model-agnostic framework for selecting estimating functions while retaining unbiasedness and statistical efficiency.\nRead more →"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Giulia Bertagnolli",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nBertagnolli, Greco, and Agostinelli (2024)\n\nAbstract. The occurrence of atypical circular observations on the torus can badly affect parameter estimation of the multivariate von Mises distribution. This paper addresses the problem of robust fitting of the multivariate von Mises model using the weighted likelihood methodology. The key ingredients are non-parametric density estimation for multivariate circular data and the definition of appropriate weighted estimating equations. Some theoretical properties are discussed. The finite sample behavior of the proposed weighted likelihood estimator has been investigated by Monte Carlo numerical studies and empirical applications.\n\n\n\nBertagnolli and De Domenico (2022)\n\nAbstract. Real systems are characterized by complex patterns of interactions between their units, by dynamical processes on them, and by the interplay of the two. It is well known that particular structures affect dynamical processes at different scales. Sometimes richly connected units are connected by costly, long-range links. In the brain, hubs form rich clubs for integrating information between different brain regions, and many biological and social networks show this same structural organization. It remains, however, unclear whether this structural organization alone enables a rapid communication between highly connected nodes or whether a functional rich club may emerge as a combination of direct links and longer paths between rich nodes. Here, we identify functional rich clubs through the diffusion geometry, providing a perspective on rich-club phenomena in complex networks. We show that weak structural rich clubs may be functionally stronger, thanks to bridge nodes, while diffusion inside strong structural rich clubs may be damped in modular networks.\n\n\nAll publications →"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Welcome to my new Quarto website\n\n\n\nwebsite\n\nquarto\n\n\n\nA short introductory post and a template for future updates.\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A Weighted Likelihood Approach Based on Statistical Data Depths\n\n\nc(“Agostinelli, Claudio”, “Basu, Ayanendranath”, “Bertagnolli, Giulia”, “Kuchibhotla, Arun Kumar”) · arXiv preprint arXiv:2507.16998 · 2025\n\nDOI · Paper\n\n\n\nEstimation of a multivariate von Mises distribution for contaminated torus data\n\n\nc(“Bertagnolli, Giulia”, “Greco, Luca”, “Agostinelli, Claudio”) · arXiv preprint arXiv:2412.02333 · 2024\n\nDOI · Paper"
+  },
+  {
+    "objectID": "publications.html#working-papers-and-preprints",
+    "href": "publications.html#working-papers-and-preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "A Weighted Likelihood Approach Based on Statistical Data Depths\n\n\nc(“Agostinelli, Claudio”, “Basu, Ayanendranath”, “Bertagnolli, Giulia”, “Kuchibhotla, Arun Kumar”) · arXiv preprint arXiv:2507.16998 · 2025\n\nDOI · Paper\n\n\n\nEstimation of a multivariate von Mises distribution for contaminated torus data\n\n\nc(“Bertagnolli, Giulia”, “Greco, Luca”, “Agostinelli, Claudio”) · arXiv preprint arXiv:2412.02333 · 2024\n\nDOI · Paper"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications\n\n\nDetection and characterization of incidental vibrations from Drosophila suzukii in infested fruits\n\n\nc(“Fellin, Lorenzo”, “Bertagnolli, Giulia”, “Mazzoni, Valerio”, “Anfora, Gianfranco”, “Agostinelli, Claudio”, “Rossi Stacconi, Marco Valerio”, “Nieri, Rachele”) · Journal of Pest Science · 2024\n\nDOI\n\n\n\nDismantling the information flow in complex interconnected systems\n\n\nc(“Ghavasieh, Arsham”, “Bertagnolli, Giulia”, “De Domenico, Manlio”) · Physical Review Research · 2023\n\nDOI\n\n\n\nEfficient network exploration by means of resetting self-avoiding random walkers\n\n\nc(“Colombani, Gaia”, “Bertagnolli, Giulia”, “Artime, Oriol”) · Journal of Physics: Complexity · 2023\n\nDOI\n\n\n\nMultilayer network science: from cells to societies\n\n\nc(“Artime, Oriol”, “Benigni, Barbara”, “Bertagnolli, Giulia”, “d’Andrea, Valeria”, “Gallotti, Riccardo”, “Ghavasieh, Arsham”, “Raimondo, Sebastian”, “De Domenico, Manlio”) · NA · 2022\n\nDOI\n\n\n\nFunctional rich clubs emerging from the diffusion geometry of complex networks\n\n\nc(“Bertagnolli, Giulia”, “De Domenico, Manlio”) · Physical Review Research · 2022\n\nDOI\n\n\n\nModelling the process-driven geometry of complex networks\n\n\nBertagnolli, Giulia · NA · 2022\n\n\n\n\nQuantifying efficient information exchange in real network flows\n\n\nc(“Bertagnolli, Giulia”, “Gallotti, Riccardo”, “De Domenico, Manlio”) · Communications Physics · 2021\n\nDOI\n\n\n\nDiffusion geometry of multiplex and interdependent systems\n\n\nc(“Bertagnolli, Giulia”, “De Domenico, Manlio”) · Physical Review E · 2021\n\nDOI\n\n\n\nUnraveling the hidden organisation of urban systems and their mobility flows\n\n\nc(“Gallotti, Riccardo”, “Bertagnolli, Giulia”, “De Domenico, Manlio”) · EPJ Data Science · 2021\n\nDOI\n\n\n\nCovMulNet19, integrating proteins, diseases, drugs, and symptoms: a network medicine approach to COVID-19\n\n\nc(“Verstraete, Nina”, “Jurman, Giuseppe”, “Bertagnolli, Giulia”, “Ghavasieh, Arsham”, “Pancaldi, Vera”, “De Domenico, Manlio”) · Network and systems medicine · 2020\n\nDOI\n\n\n\nCities of a feather flock together: a study on the synchronization of communication between Italian cities\n\n\nc(“Candeago, Lorenzo”, “Bertagnolli, Giulia”, “Bosetti, Paolo”, “Vescovi, Michele”, “Sacco, Francesco”, “Lepri, Bruno”) · EPJ Data Science · 2019\n\nDOI\n\n\n\nNetwork depth: identifying median and contours in complex networks\n\n\nc(“Bertagnolli, Giulia”, “Agostinelli, Claudio”, “De Domenico, Manlio”) · Journal of Complex Networks · 2019\n\nDOI"
+  }
+]
