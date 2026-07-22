@@ -1,0 +1,86 @@
+---
+title: Publications
+subtitle: Selected papers and preprints
+execute:
+  echo: false
+  warning: false
+---
+
+```{r results='asis', echo=FALSE}
+pubs <- bib2df::bib2df("bibliography/publications.bib")
+pubs <- pubs[, c(1, 2, 5, 10, 13, 17, 19, 20, 23, 25, 26, 27, 28, 29, 30)]
+pubs$YEAR <- as.numeric(pubs$YEAR)
+pubs <- pubs[order(pubs$YEAR, decreasing = TRUE), ]
+
+format_authors <- function(authors) {
+  if (length(authors) == 0 || all(is.na(authors))) return("")
+  paste(authors, collapse = ", ")
+}
+
+print_publication <- function(entry) {
+  cat("::: {.publication}\n")
+  cat(
+    '<div class="publication-title">',
+    entry$TITLE,
+    "</div>\n",
+    sep = ""
+  )
+
+  meta <- paste(
+    format_authors(entry$AUTHOR),
+    entry$JOURNAL,
+    entry$YEAR,
+    sep = " · "
+  )
+
+  cat(
+    '<div class="publication-meta">',
+    meta,
+    "</div>\n\n",
+    sep = ""
+  )
+
+  links <- character()
+
+  if (!is.na(entry$DOI) && nzchar(entry$DOI)) {
+    links <- c(
+      links,
+      sprintf("[DOI](https://doi.org/%s)", entry$DOI)
+    )
+  }
+
+  if (!is.na(entry$URL) && nzchar(entry$URL)) {
+    links <- c(
+      links,
+      sprintf("[Paper](%s)", entry$URL)
+    )
+  }
+
+  if (length(links) > 0) {
+    cat(paste(links, collapse = " · "), "\n")
+  }
+
+  cat(":::\n\n")
+}
+
+cat("## Working papers and preprints\n\n")
+
+preprints <- pubs[
+  grepl("preprint", pubs$KEYWORDS, ignore.case = TRUE),
+]
+
+for (i in seq_len(nrow(preprints))) {
+  print_publication(preprints[i, ])
+}
+
+cat("## Publications\n\n")
+
+published <- pubs[
+  grepl("published", pubs$KEYWORDS, ignore.case = TRUE),
+]
+
+for (i in seq_len(nrow(published))) {
+  print_publication(published[i, ])
+}
+```
+

@@ -1,0 +1,362 @@
+/*-- scss:defaults --*/
+
+// Change these few values to restyle the whole website.
+$accent: #00A388;
+$primary: #00A388;
+$accent-soft: rgba(0,163,136, 0.10);
+$body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$heading-font: Georgia, "Times New Roman", serif;
+
+$font-family-sans-serif: $body-font;
+$headings-font-family: $heading-font;
+$link-color: $accent;
+$navbar-light-color: #343a40;
+$navbar-light-hover-color: $accent;
+$navbar-light-active-color: $accent;
+
+/*-- scss:rules --*/
+
+:root {
+  --gb-accent: #{$accent};
+  --gb-accent-soft: #{$accent-soft};
+  --gb-border: rgba(127, 127, 127, 0.22);
+}
+
+body {
+  line-height: 1.7;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--gb-border);
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-family: $heading-font;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+#quarto-content {
+  max-width: 1120px;
+  margin-inline: auto;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.015em;
+}
+
+h2 {
+  margin-top: 2.5rem;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 3rem;
+  align-items: center;
+  padding: 3.5rem 0 2.5rem;
+}
+
+.hero-photo {
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid var(--gb-border);
+}
+
+.hero h1 {
+  margin: 0 0 0.25rem;
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+}
+
+.hero-role {
+  margin: 0.2rem 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.hero-affiliation {
+  margin: 0 0 1rem;
+  color: var(--bs-secondary-color);
+}
+
+.hero-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.9rem;
+}
+
+.hero-icons p {
+  display: contents;
+}
+
+.hero-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--bs-body-color);
+  font-size: 1.28rem;
+  line-height: 1;
+  text-decoration: none;
+  transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.hero-icons a:hover,
+.hero-icons a:focus-visible {
+  color: var(--gb-accent);
+  transform: translateY(-1px);
+}
+
+.hero-icons a:focus-visible {
+  outline: 2px solid var(--gb-accent);
+  outline-offset: 4px;
+  border-radius: 0.15rem;
+}
+
+.lead-copy {
+  max-width: 760px;
+  font-size: 1.08rem;
+}
+
+.section-rule {
+  border: 0;
+  border-top: 1px solid var(--gb-border);
+  margin: 2.5rem 0;
+}
+
+.interest-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  padding: 0;
+  list-style: none;
+}
+
+.interest-list li {
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: var(--gb-accent-soft);
+  color: var(--gb-accent);
+  font-size: 0.93rem;
+  font-weight: 600;
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.simple-card {
+  padding: 1.2rem 1.25rem;
+  border: 1px solid var(--gb-border);
+  border-radius: 0.55rem;
+}
+
+.simple-card h3 {
+  margin-top: 0;
+}
+
+.publication {
+  margin-bottom: 1.7rem;
+}
+
+.publication-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.publication-meta {
+  color: var(--bs-secondary-color);
+  font-size: 0.94rem;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--gb-accent);
+  --bs-btn-border-color: var(--gb-accent);
+  --bs-btn-hover-bg: var(--gb-accent);
+  --bs-btn-hover-border-color: var(--gb-accent);
+}
+
+.quarto-title-banner {
+  background: transparent;
+  padding-bottom: 0;
+}
+
+.page-columns .content {
+  max-width: 900px;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+    padding-top: 2rem;
+  }
+
+  .hero-photo {
+    margin-inline: auto;
+  }
+
+  .interest-list {
+    justify-content: center;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Local SVG icons: no external icon font or CDN is required. */
+.hero-icons svg {
+  display: block;
+  width: 1.28rem;
+  height: 1.28rem;
+  fill: currentColor;
+}
+
+.hero-icons .orcid-cutout {
+  fill: var(--bs-body-bg);
+}
+
+
+/* Talks ------------------------------------------------------- */
+
+.talk-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 2rem;
+}
+
+.talk {
+  margin: 0 0 1.4rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid rgba($body-color, 0.12);
+  border-left: 4px solid $primary;
+  border-radius: 0.4rem;
+  background: rgba($body-color, 0.015);
+}
+
+.talk h3 {
+  margin: 0.5rem 0 0.35rem;
+  font-size: 1.08rem;
+  line-height: 1.4;
+}
+
+.talk h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.talk h3 a:hover {
+  color: $primary;
+}
+
+.talk-event {
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+
+.talk-details {
+  margin-bottom: 0.65rem;
+  color: rgba($body-color, 0.68);
+  font-size: 0.92rem;
+}
+
+.talk p:last-child {
+  margin-bottom: 0;
+}
+
+.talk-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.talk-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: 0.015em;
+}
+
+/* Research-area tags */
+
+.tag-robust {
+  color: #253494;
+  background: rgba(37,52,148,0.10);
+  border-color: rgba(37,52,148,0.22);
+}
+
+.tag-sparse {
+  color: #2c7fb8;
+  background: rgba(44,127,184, 0.10);
+  border-color: rgba(44,127,184, 0.22);
+}
+
+.tag-networks {
+  color: #41b6c4;
+  background: rgba(65,182,196, 0.10);
+  border-color: rgba(65,182,196, 0.22);
+}
+
+/* Talk-type tags */
+
+.tag-invited {
+  color: #7fcdbb;
+  background: rgba(127,205,187, 0.10);
+  border-color: rgba(127,205,187, 0.22);
+}
+
+.tag-contributed {
+  color: rgba($body-color, 0.75);
+  background: rgba($body-color, 0.05);
+  border-color: rgba($body-color, 0.13);
+}
+
+.tag-organization {
+  color: #c7e9b4;
+  background: rgba(199,233,180, 0.10);
+  border-color: rgba(199,233,180, 0.22);
+}
+
+.tag-seminar {
+  color: rgba($body-color, 0.75);
+  background: rgba($body-color, 0.05);
+  border-color: rgba($body-color, 0.13);
+}
+
+.talk-organization {
+  border-left-color: #c7e9b4;
+}
+
+@media (max-width: 600px) {
+  .talk {
+    padding: 1rem;
+  }
+
+  .talk h3 {
+    font-size: 1rem;
+  }
+}

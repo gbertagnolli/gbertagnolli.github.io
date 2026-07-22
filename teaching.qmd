@@ -1,0 +1,20 @@
+---
+title: Teaching
+subtitle: Courses, lecture material, and student projects
+---
+
+## Current courses
+
+::: {.simple-card}
+### Data Analytics for Economics and Management
+
+Topics include statistical network analysis, robust statistics, structured data, and applied work in R.
+
+- Institution: Free University of Bozen–Bolzano
+- Level: Master’s
+- Materials: add a link here
+:::
+
+## Previous teaching
+
+Add earlier courses here using ordinary Markdown headings and lists. Keeping this page manual makes it easy to update without learning an additional Quarto extension.
