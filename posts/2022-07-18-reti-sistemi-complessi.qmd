@@ -1,0 +1,19 @@
+---
+  title:  "Reti e sistemi complessi - OrientaEstate 2022"
+  author: "Giulia Bertagnolli"
+  date: 2022-07-18
+  categories: ["presentation"]
+  tags: ["network science", "graph theory", "maths"]
+---
+
+Nell'ambito di OrientaEstate, Settimana di Orientamento dell'Università di Trento, ho proposto ai ragazzi di quarta e quinta superiore un'attività su grafi, reti, e sistemi complessi, per mostrare come la Matematica, nella sua ricchezza di linguaggii e strumenti, possa essere utilizzata in ambiti molto diversi da quelli tradizionali (dell'analisi, dell'algebra, della geometria).
+
+Dopo una breve introduzione al linguaggio della teoria dei grafi, abbiamo visto il famoso problema dei sette ponti di Königsberg, da cui si considera abbia avuto inizio la teoria dei grafi, appunto.
+Siamo poi passati alle reti complesse, come quella degli aeroporti degli Stati Uniti (disponibile nel pacchetto R `igraphdata`) e abbiamo cercato di capire quanto è _piccolo il mondo_.
+Infine, una bizzarria delle reti: il paradosso dell'amicizia, o [the friendship paradox](https://en.wikipedia.org/wiki/Friendship_paradox), e come la matematica ci svela dove sta l'inghippo.
+
+Trovate il materiale dell'attività (jupyter notebooks in R e, parzialmente, in python) nella [mia pagina di github](https://github.com/gbertagnolli/OrientaMat) e su [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gbertagnolli/OrientaMat/HEAD)
+
+#### Alcune risorse interessanti:
+* [Complessità](http://complexityexplained.github.io), che cos'è?
+* [Complexity explorables](http://www.complexity-explorables.org/), gli esplorabili interattivi di Dirk Brockmann.

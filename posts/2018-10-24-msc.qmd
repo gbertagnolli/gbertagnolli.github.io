@@ -1,0 +1,30 @@
+---
+  title:  "MSc: Complex Networks and Statistical Data Depths"
+  author: "Giulia Bertagnolli"
+  date: 2018-10-24
+  categories: ["studies"]
+  tags: ["statistics", "networks"]
+---
+
+### Abstract
+
+A statistical data depth $d(x, \mathbb{P})$ is a measure of _depth_ or _outlyingness_ of a sample $x \in \mathbb{R}^p$ with respect to its underlying distribution $\mathbb{P}$ and it provides a centre-outward ordering of sample points.
+It can be used to estimate, non-parametrically, location, scale, skewness an other data characteristics.
+The deepest point can be seen as multivariate [Zuo, 2000a](https://www.jstor.org/stable/2674037 ) or functional[Nieto-reyes, 2016](https://projecteuclid.org/euclid.ss/1455115914) extension of the median; the trimmed regions of percentiles.
+Therefore depths are extremely important, since they enable us to generalise statistical tools like e.g. boxplots, DD-plots, test of hypothesis to more complex data [Liu, 1999](https://projecteuclid.org/euclid.aos/1018031260).
+Local versions of depth are also studied [Agostinelli, 2011](https://doi.org/10.1016/j.jspi.2010.08.001).
+Defining a depth for networks would mean the possibility to extend to graphs and complex networks these grounded descriptive and inference methods.
+
+The problem with networks is that they do not come with a space, so before applying them the projected Tukey depth (PTD), a newly defined variation on the well-known halfspace Tukey depth, they need to be embedded in space.
+This can be achieved through a classical multidimensional scaling of a distance matrix.
+Two options are here available:
+
+* $D_{sp}$, shortest path between pairs of nodes, or
+* $D_t$ diffusion distance [De Domenico PhysRevLett.118.168301, 2017](https://link.aps.org/doi/10.1103/PhysRevLett.118.168301), a metric defined as the probability of two random walkers starting from vertices $u, v$ respectively to meet somewhere in the network within the diffusion time $t$.
+
+The free parameters are $p$, the dimension of the embedding space and $t$, diffusion time in case diffusion maps embedding.
+If $p$ is very small most of the information contained in the data is lost and this results in a random centrality of nodes; whereas if $p$ is too large compared to the number $N$ of nodes the sample becomes excessively diluted in $\mathbb{R}^p$, so there is not enough information for significant inference and all vertices appear to have the same depth, with some negligible fluctuations.
+In between we observe a range of values for $p$ for which nodes depth ranking remains stable.
+This, together with evaluation of the statistical content of the reduced sample enables us to select a proper embedding dimension.
+As shown in [Coifman, 2006](https://doi.org/10.1016/j.acha.2006.04.006), $t$ plays the role of scale parameter since computing $D_t(u, v)$ involves summing over all paths between $u$ and $v$ of length at most $t$. This was further shown in [De Domenico, PhysRevLett.118.168301, 2017](https://link.aps.org/doi/10.1103/PhysRevLett.118.168301) by direct application on complex networks: small values uncover the micro-scale structures and increasing $t$ uncovers the macro-scale.
+

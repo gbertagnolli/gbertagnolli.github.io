@@ -1,0 +1,21 @@
+---
+  title:  "muxViz v3.1 R package"
+  author: "Giulia Bertagnolli"
+  date: 2021-04-01
+  categories: ["R"]
+  tags: ["network science", "multilayer networks", "r-package"]
+---
+
+I had the great opportunity to contribute to [muxViz](https://github.com/manlius/muxViz), building the R package `muxViz` that now can be installed as easy as
+```R
+devtools::install_github("manlius/muxViz")
+```
+
+I built the [package website](https://manlius.github.io/muxViz) using `pkgdown` (cf.[pkgdown.r-lib.org](https://pkgdown.r-lib.org/)), which makes the whole process easy (and fun).
+
+There is still work to do&ndash;enriching the documentation and fixing bugs, among others&ndash;before releasing it to CRAN, but it's still a result and a pleasure.
+Realising code makes Scientific Research and Science better!
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tnx to sprint efforts by <a href="https://twitter.com/gdeandajauregui?ref_src=twsrc%5Etfw">@gdeandajauregui</a> &amp; Coll. + <a href="https://twitter.com/GiuliaTtt?ref_src=twsrc%5Etfw">@GiuliaTtt</a> invaluable contributions, I can say it: <a href="https://twitter.com/hashtag/muxViz?src=hash&amp;ref_src=twsrc%5Etfw">#muxViz</a> 3.1 is out! Full R package, w/ minimal doc + worked examples.<br>Many thanks for the patience, but it was worth the pain. The accompanying book is coming soon... <a href="https://t.co/zEuGYGJ6tP">pic.twitter.com/zEuGYGJ6tP</a></p>&mdash; Manlio De Domenico (@manlius84) <a href="https://twitter.com/manlius84/status/1377555005427843074?ref_src=twsrc%5Etfw">April 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
