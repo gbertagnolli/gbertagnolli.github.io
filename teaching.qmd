@@ -6,15 +6,28 @@ subtitle: Courses, lecture material, and student projects
 ## Current courses
 
 ::: {.simple-card}
-### Data Analytics for Economics and Management
+### Data science applications for resource optimization, risk evaluation and sustainability
 
-Topics include statistical network analysis, robust statistics, structured data, and applied work in R.
+Topics include statistical network analysis, robust statistics, and applied work in R.
 
 - Institution: Free University of Bozen–Bolzano
-- Level: Master’s
-- Materials: add a link here
+- Master in Data Analytics for Economics and Management
+- [Course page](https://www.unibz.it/en/faculties/economics-management/study-course-offering/2025/32495#ExamCode-27511B)
+
 :::
+
+::: {.simple-card}
+### Statistical methods for business analysis
+
+- Institution: Free University of Bozen–Bolzano
+- Master in Data Analytics for Economics and Management
+- [Course page](https://www.unibz.it/en/faculties/economics-management/study-course-offering/2025/32486#ExamCode-27502A)
+
+:::
+
+See also [my university webpage](https://www.unibz.it/en/faculties/economics-management/academic-staff/person/49312-giulia-bertagnolli)
 
 ## Previous teaching
 
-Add earlier courses here using ordinary Markdown headings and lists. Keeping this page manual makes it easy to update without learning an additional Quarto extension.
+* 2025/26: Introduction to Data Management and Data Analysis - Master in Public Policy and Innovative Governance
+* 2025/26: Statistica [IT] (Teaching Assistant) - Bachelor in Economics and Management
