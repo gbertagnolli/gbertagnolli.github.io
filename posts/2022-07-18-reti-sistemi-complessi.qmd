@@ -1,9 +1,9 @@
 ---
-  title:  "Reti e sistemi complessi - OrientaEstate 2022"
-  author: "Giulia Bertagnolli"
-  date: 2022-07-18
-  categories: ["presentation"]
-  tags: ["network science", "graph theory", "maths"]
+title:  "Reti e sistemi complessi - OrientaEstate 2022"
+author: "Giulia Bertagnolli"
+date: 2022-07-18
+categories: ["presentation"]
+tags: ["network science", "graph theory", "maths"]
 ---
 
 Nell'ambito di OrientaEstate, Settimana di Orientamento dell'Università di Trento, ho proposto ai ragazzi di quarta e quinta superiore un'attività su grafi, reti, e sistemi complessi, per mostrare come la Matematica, nella sua ricchezza di linguaggii e strumenti, possa essere utilizzata in ambiti molto diversi da quelli tradizionali (dell'analisi, dell'algebra, della geometria).

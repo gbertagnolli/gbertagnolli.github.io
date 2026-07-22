@@ -1,9 +1,9 @@
 ---
-  title:  "muxViz v3.1 R package"
-  author: "Giulia Bertagnolli"
-  date: 2021-04-01
-  categories: ["R"]
-  tags: ["network science", "multilayer networks", "r-package"]
+title:  "muxViz v3.1 R package"
+author: "Giulia Bertagnolli"
+date: 2021-04-01
+categories: ["R"]
+tags: ["network science", "multilayer networks", "r-package"]
 ---
 
 I had the great opportunity to contribute to [muxViz](https://github.com/manlius/muxViz), building the R package `muxViz` that now can be installed as easy as

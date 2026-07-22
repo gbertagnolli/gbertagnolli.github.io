@@ -1,9 +1,9 @@
 ---
-  title:  "Seminario per la Settimana di Orientamento unitn 2019"
-  author: "Giulia Bertagnolli"
-  date: 2019-08-23
-  categories: ["presentation"]
-  tags: ["network science", "graph theory", "maths"]
+title:  "Seminario per la Settimana di Orientamento unitn 2019"
+author: "Giulia Bertagnolli"
+date: 2019-08-23
+categories: ["presentation"]
+tags: ["network science", "graph theory", "maths"]
 ---
 
 Nell'ambito della Settimana di Orientamento dell'Università di Trento, ho tenuto un seminario dal titolo _Semplicemente... Reti Complesse!_

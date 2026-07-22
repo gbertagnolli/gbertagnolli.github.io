@@ -1,9 +1,9 @@
 ---
-  title:  "MSc: Complex Networks and Statistical Data Depths"
-  author: "Giulia Bertagnolli"
-  date: 2018-10-24
-  categories: ["studies"]
-  tags: ["statistics", "networks"]
+title:  "MSc: Complex Networks and Statistical Data Depths"
+author: "Giulia Bertagnolli"
+date: 2018-10-24
+categories: ["studies"]
+tags: ["statistics", "networks"]
 ---
 
 ### Abstract
