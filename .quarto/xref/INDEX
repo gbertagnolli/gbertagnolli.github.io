@@ -19,5 +19,20 @@
   },
   "talks.qmd": {
     "talks.html": "dddf1172"
+  },
+  "posts/2018-10-24-msc.qmd": {
+    "2018-10-24-msc.html": "f73b7cdd"
+  },
+  "posts/2019-08-23-network-science.qmd": {
+    "2019-08-23-network-science.html": "573150e9"
+  },
+  "posts/2018-11-19-nets-seminars.qmd": {
+    "2018-11-19-nets-seminars.html": "aeadcac9"
+  },
+  "posts/2022-07-18-reti-sistemi-complessi.qmd": {
+    "2022-07-18-reti-sistemi-complessi.html": "5cc5ab11"
+  },
+  "posts/2021-04-01-muxViz.qmd": {
+    "2021-04-01-muxViz.html": "1ff23973"
   }
 }

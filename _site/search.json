@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to my new Quarto website",
+    "objectID": "posts/2021-04-01-muxViz.html",
+    "href": "posts/2021-04-01-muxViz.html",
+    "title": "muxViz v3.1 R package",
     "section": "",
-    "text": "This is a sample post. Duplicate this folder, edit the YAML header above, and replace the text."
+    "text": "I had the great opportunity to contribute to muxViz, building the R package muxViz that now can be installed as easy as\ndevtools::install_github(\"manlius/muxViz\")\nI built the package website using pkgdown (cf.pkgdown.r-lib.org), which makes the whole process easy (and fun).\nThere is still work to do–enriching the documentation and fixing bugs, among others–before releasing it to CRAN, but it’s still a result and a pleasure. Realising code makes Scientific Research and Science better!\n\n\n\nTnx to sprint efforts by @gdeandajauregui & Coll. + @GiuliaTtt invaluable contributions, I can say it: #muxViz 3.1 is out! Full R package, w/ minimal doc + worked examples.Many thanks for the patience, but it was worth the pain. The accompanying book is coming soon… pic.twitter.com/zEuGYGJ6tP\n\n— Manlio De Domenico (@manlius84) April 1, 2021\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "posts/welcome/index.html#why-quarto",
-    "href": "posts/welcome/index.html#why-quarto",
-    "title": "Welcome to my new Quarto website",
-    "section": "Why Quarto?",
-    "text": "Why Quarto?\nQuarto keeps content in readable Markdown files while supporting equations, citations, R or Python code, and automatic website navigation."
+    "objectID": "posts/2018-11-19-nets-seminars.html",
+    "href": "posts/2018-11-19-nets-seminars.html",
+    "title": "Complex Networks Seminar Series",
+    "section": "",
+    "text": "A series of three seminars on complex networks for master students in Mathematics (not only) at the University of Trento.\nCourse material is available in my github and you can interact with the Jupyter notebooks here \n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2018-10-24-msc.html",
+    "href": "posts/2018-10-24-msc.html",
+    "title": "MSc: Complex Networks and Statistical Data Depths",
+    "section": "",
+    "text": "Abstract\nA statistical data depth \\(d(x, \\mathbb{P})\\) is a measure of depth or outlyingness of a sample \\(x \\in \\mathbb{R}^p\\) with respect to its underlying distribution \\(\\mathbb{P}\\) and it provides a centre-outward ordering of sample points. It can be used to estimate, non-parametrically, location, scale, skewness an other data characteristics. The deepest point can be seen as multivariate Zuo, 2000a or functionalNieto-reyes, 2016 extension of the median; the trimmed regions of percentiles. Therefore depths are extremely important, since they enable us to generalise statistical tools like e.g. boxplots, DD-plots, test of hypothesis to more complex data Liu, 1999. Local versions of depth are also studied Agostinelli, 2011. Defining a depth for networks would mean the possibility to extend to graphs and complex networks these grounded descriptive and inference methods.\nThe problem with networks is that they do not come with a space, so before applying them the projected Tukey depth (PTD), a newly defined variation on the well-known halfspace Tukey depth, they need to be embedded in space. This can be achieved through a classical multidimensional scaling of a distance matrix. Two options are here available:\n\n\\(D_{sp}\\), shortest path between pairs of nodes, or\n\\(D_t\\) diffusion distance De Domenico PhysRevLett.118.168301, 2017, a metric defined as the probability of two random walkers starting from vertices \\(u, v\\) respectively to meet somewhere in the network within the diffusion time \\(t\\).\n\nThe free parameters are \\(p\\), the dimension of the embedding space and \\(t\\), diffusion time in case diffusion maps embedding. If \\(p\\) is very small most of the information contained in the data is lost and this results in a random centrality of nodes; whereas if \\(p\\) is too large compared to the number \\(N\\) of nodes the sample becomes excessively diluted in \\(\\mathbb{R}^p\\), so there is not enough information for significant inference and all vertices appear to have the same depth, with some negligible fluctuations. In between we observe a range of values for \\(p\\) for which nodes depth ranking remains stable. This, together with evaluation of the statistical content of the reduced sample enables us to select a proper embedding dimension. As shown in Coifman, 2006, \\(t\\) plays the role of scale parameter since computing \\(D_t(u, v)\\) involves summing over all paths between \\(u\\) and \\(v\\) of length at most \\(t\\). This was further shown in De Domenico, PhysRevLett.118.168301, 2017 by direct application on complex networks: small values uncover the micro-scale structures and increasing \\(t\\) uncovers the macro-scale.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Topics include statistical network analysis, robust statistics, structured data, and applied work in R.\n\nInstitution: Free University of Bozen–Bolzano\nLevel: Master’s\nMaterials: add a link here"
+    "text": "Topics include statistical network analysis, robust statistics, and applied work in R.\n\nInstitution: Free University of Bozen–Bolzano\nMaster in Data Analytics for Economics and Management\nCourse page\n\n\n\n\n\nInstitution: Free University of Bozen–Bolzano\nMaster in Data Analytics for Economics and Management\nCourse page\n\n\nSee also my university webpage"
   },
   {
     "objectID": "teaching.html#current-courses",
     "href": "teaching.html#current-courses",
     "title": "Teaching",
     "section": "",
-    "text": "Topics include statistical network analysis, robust statistics, structured data, and applied work in R.\n\nInstitution: Free University of Bozen–Bolzano\nLevel: Master’s\nMaterials: add a link here"
+    "text": "Topics include statistical network analysis, robust statistics, and applied work in R.\n\nInstitution: Free University of Bozen–Bolzano\nMaster in Data Analytics for Economics and Management\nCourse page\n\n\n\n\n\nInstitution: Free University of Bozen–Bolzano\nMaster in Data Analytics for Economics and Management\nCourse page\n\n\nSee also my university webpage"
   },
   {
     "objectID": "teaching.html#previous-teaching",
     "href": "teaching.html#previous-teaching",
     "title": "Teaching",
     "section": "Previous teaching",
-    "text": "Previous teaching\nAdd earlier courses here using ordinary Markdown headings and lists. Keeping this page manual makes it easy to update without learning an additional Quarto extension."
+    "text": "Previous teaching\n\n2025/26: Introduction to Data Management and Data Analysis - Master in Public Policy and Innovative Governance\n2025/26: Statistica [IT] (Teaching Assistant) - Bachelor in Economics and Management"
   },
   {
     "objectID": "talks.html",
@@ -109,7 +116,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Welcome to my new Quarto website\n\n\n\nwebsite\n\nquarto\n\n\n\nA short introductory post and a template for future updates.\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Reti e sistemi complessi - OrientaEstate 2022\n\n\n\npresentation\n\n\n\n\n\n\n\n\n\nJul 18, 2022\n\n\nGiulia Bertagnolli\n\n\n\n\n\n\n\n\n\n\n\n\nmuxViz v3.1 R package\n\n\n\nR\n\n\n\n\n\n\n\n\n\nApr 1, 2021\n\n\nGiulia Bertagnolli\n\n\n\n\n\n\n\n\n\n\n\n\nSeminario per la Settimana di Orientamento unitn 2019\n\n\n\npresentation\n\n\n\n\n\n\n\n\n\nAug 23, 2019\n\n\nGiulia Bertagnolli\n\n\n\n\n\n\n\n\n\n\n\n\nComplex Networks Seminar Series\n\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 18, 2018\n\n\nGiulia Bertagnolli\n\n\n\n\n\n\n\n\n\n\n\n\nMSc: Complex Networks and Statistical Data Depths\n\n\n\nstudies\n\n\n\n\n\n\n\n\n\nOct 24, 2018\n\n\nGiulia Bertagnolli\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "publications.html",
@@ -131,5 +138,19 @@
     "title": "Publications",
     "section": "Publications",
     "text": "Publications\n\n\nDetection and characterization of incidental vibrations from Drosophila suzukii in infested fruits\n\n\nc(“Fellin, Lorenzo”, “Bertagnolli, Giulia”, “Mazzoni, Valerio”, “Anfora, Gianfranco”, “Agostinelli, Claudio”, “Rossi Stacconi, Marco Valerio”, “Nieri, Rachele”) · Journal of Pest Science · 2024\n\nDOI\n\n\n\nDismantling the information flow in complex interconnected systems\n\n\nc(“Ghavasieh, Arsham”, “Bertagnolli, Giulia”, “De Domenico, Manlio”) · Physical Review Research · 2023\n\nDOI\n\n\n\nEfficient network exploration by means of resetting self-avoiding random walkers\n\n\nc(“Colombani, Gaia”, “Bertagnolli, Giulia”, “Artime, Oriol”) · Journal of Physics: Complexity · 2023\n\nDOI\n\n\n\nMultilayer network science: from cells to societies\n\n\nc(“Artime, Oriol”, “Benigni, Barbara”, “Bertagnolli, Giulia”, “d’Andrea, Valeria”, “Gallotti, Riccardo”, “Ghavasieh, Arsham”, “Raimondo, Sebastian”, “De Domenico, Manlio”) · NA · 2022\n\nDOI\n\n\n\nFunctional rich clubs emerging from the diffusion geometry of complex networks\n\n\nc(“Bertagnolli, Giulia”, “De Domenico, Manlio”) · Physical Review Research · 2022\n\nDOI\n\n\n\nModelling the process-driven geometry of complex networks\n\n\nBertagnolli, Giulia · NA · 2022\n\n\n\n\nQuantifying efficient information exchange in real network flows\n\n\nc(“Bertagnolli, Giulia”, “Gallotti, Riccardo”, “De Domenico, Manlio”) · Communications Physics · 2021\n\nDOI\n\n\n\nDiffusion geometry of multiplex and interdependent systems\n\n\nc(“Bertagnolli, Giulia”, “De Domenico, Manlio”) · Physical Review E · 2021\n\nDOI\n\n\n\nUnraveling the hidden organisation of urban systems and their mobility flows\n\n\nc(“Gallotti, Riccardo”, “Bertagnolli, Giulia”, “De Domenico, Manlio”) · EPJ Data Science · 2021\n\nDOI\n\n\n\nCovMulNet19, integrating proteins, diseases, drugs, and symptoms: a network medicine approach to COVID-19\n\n\nc(“Verstraete, Nina”, “Jurman, Giuseppe”, “Bertagnolli, Giulia”, “Ghavasieh, Arsham”, “Pancaldi, Vera”, “De Domenico, Manlio”) · Network and systems medicine · 2020\n\nDOI\n\n\n\nCities of a feather flock together: a study on the synchronization of communication between Italian cities\n\n\nc(“Candeago, Lorenzo”, “Bertagnolli, Giulia”, “Bosetti, Paolo”, “Vescovi, Michele”, “Sacco, Francesco”, “Lepri, Bruno”) · EPJ Data Science · 2019\n\nDOI\n\n\n\nNetwork depth: identifying median and contours in complex networks\n\n\nc(“Bertagnolli, Giulia”, “Agostinelli, Claudio”, “De Domenico, Manlio”) · Journal of Complex Networks · 2019\n\nDOI"
+  },
+  {
+    "objectID": "posts/2019-08-23-network-science.html",
+    "href": "posts/2019-08-23-network-science.html",
+    "title": "Seminario per la Settimana di Orientamento unitn 2019",
+    "section": "",
+    "text": "Nell’ambito della Settimana di Orientamento dell’Università di Trento, ho tenuto un seminario dal titolo Semplicemente… Reti Complesse!\n{{&lt; icon name=\"download\" pack=\"fas\" &gt;}} Scarica le slides della {{&lt; staticref \"media/NetworkScience.pdf\" \"newtab\" &gt;}}mia presentazione{{&lt; /staticref &gt;}}.\nAbbiamo visto qualche risultato classico della teoria dei grafi: il famoso problema dei ponti di Königsberg e abbiamo dimostrato il teorema dei 4 colori (in realtà quello dei 5 colori).\nSiamo poi passati dai grafi, struttura puramente matematica, alle reti complesse, rappresentazioni (astrazioni) di sistemi complessi. Esempi? Reti sociali, biologiche, stradali, reti dei trasporti etc.\n\nAlcune risorse interessanti:\n\nComplessità, che cos’è?\nComplexity explorables, gli esplorabili interattivi di Dirk Brockmann.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2022-07-18-reti-sistemi-complessi.html",
+    "href": "posts/2022-07-18-reti-sistemi-complessi.html",
+    "title": "Reti e sistemi complessi - OrientaEstate 2022",
+    "section": "",
+    "text": "Nell’ambito di OrientaEstate, Settimana di Orientamento dell’Università di Trento, ho proposto ai ragazzi di quarta e quinta superiore un’attività su grafi, reti, e sistemi complessi, per mostrare come la Matematica, nella sua ricchezza di linguaggii e strumenti, possa essere utilizzata in ambiti molto diversi da quelli tradizionali (dell’analisi, dell’algebra, della geometria).\nDopo una breve introduzione al linguaggio della teoria dei grafi, abbiamo visto il famoso problema dei sette ponti di Königsberg, da cui si considera abbia avuto inizio la teoria dei grafi, appunto. Siamo poi passati alle reti complesse, come quella degli aeroporti degli Stati Uniti (disponibile nel pacchetto R igraphdata) e abbiamo cercato di capire quanto è piccolo il mondo. Infine, una bizzarria delle reti: il paradosso dell’amicizia, o the friendship paradox, e come la matematica ci svela dove sta l’inghippo.\nTrovate il materiale dell’attività (jupyter notebooks in R e, parzialmente, in python) nella mia pagina di github e su \n\nAlcune risorse interessanti:\n\nComplessità, che cos’è?\nComplexity explorables, gli esplorabili interattivi di Dirk Brockmann.\n\n\n\n\n\n Back to top"
   }
 ]

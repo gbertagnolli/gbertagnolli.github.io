@@ -2,7 +2,11 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/welcome/index.html"
+      "/posts/2022-07-18-reti-sistemi-complessi.html",
+      "/posts/2021-04-01-muxViz.html",
+      "/posts/2019-08-23-network-science.html",
+      "/posts/2018-11-19-nets-seminars.html",
+      "/posts/2018-10-24-msc.html"
     ]
   }
 ]
